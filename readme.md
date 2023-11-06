@@ -1,1 +1,1 @@
-# react js journey
+# reactjs journey
